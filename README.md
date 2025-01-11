@@ -1,5 +1,5 @@
 
-Here’s a professional and concise description for your GitHub repository:
+
 
 Python Trading Bot Using Bollinger Bands
 This repository contains a Python-based trading bot that utilizes Bollinger Bands for generating buy and sell signals in financial markets. The bot:
